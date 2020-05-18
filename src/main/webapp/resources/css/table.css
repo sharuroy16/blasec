@@ -1,0 +1,19 @@
+tr {
+	background-color: #fff4b3;
+}
+
+td {
+    border: 1px solid #cc0000;
+}
+
+th {
+	background-color: #ff6666;
+}
+
+#index {
+    border-collapse: collapse;
+}
+
+tr:hover {
+	background-color: #ddd;
+}
