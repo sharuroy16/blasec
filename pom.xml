@@ -14,7 +14,7 @@
 
   <!-- Declare properties for the version of Spring and Hibernate frameworks -->
 		<properties>
-			<spring.version>5.1.5.RELEASE</spring.version>
+			<spring.version>5.3.18</spring.version>
 			<hibernate.version>5.4.1.Final</hibernate.version>
 		</properties>
 
