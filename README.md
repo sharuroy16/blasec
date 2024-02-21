@@ -93,6 +93,3 @@ CREATE TABLE usertxnhistory (
 	
 Reach out to me at: https://www.sharudoestech.com/
 	
-Reach out to me at:
-Linkedln: https://www.linkedin.com/in/sharuroy/
-Instagram: https://www.instagram.com/sharru.roy/
