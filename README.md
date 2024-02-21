@@ -3,7 +3,7 @@ BlaSec - A mock secured payment gateway to avoid fraudulent transactions
 
 Check out for more information on the project:
 
-https://medium.com/@sharuroy/blasec-part-1-b8d651e881a9
+https://www.sharudoestech.com/blasec-a-payment-gateway-part-1-2/
 
 
 Payment gateways/Payment portals have become essential to the security of businesses that accepts online payments. But online fraud has risen drastically and is wrongful and even, it is a criminal deception which is intended for personal or financial gain. These payments are performed online over the Internet. Debit/Credit card fraud is the most common type of fraud nowadays. It is basically when a fraudster steals card details and buys good online or even transfer money. But many companies offer only basic security measures to reduce such debit/credit card frauds. Hence it is essential to develop a payment gateway or modify an existing one and incorporate more features that offers better security and quality fraud protection.
@@ -91,9 +91,7 @@ CREATE TABLE usertxnhistory (
   PRIMARY KEY (id)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 	
-Check out for more information on the project, setup, explanation and tutorials:
-
-https://medium.com/@sharuroy/blasec-part-1-b8d651e881a9
+Reach out to me at: https://www.sharudoestech.com/
 	
 Reach out to me at:
 Linkedln: https://www.linkedin.com/in/sharuroy/
